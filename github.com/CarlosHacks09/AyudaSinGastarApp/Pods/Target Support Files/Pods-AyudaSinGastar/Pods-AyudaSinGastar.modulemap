@@ -1,0 +1,6 @@
+framework module Pods_AyudaSinGastar {
+  umbrella header "Pods-AyudaSinGastar-umbrella.h"
+
+  export *
+  module * { export * }
+}
